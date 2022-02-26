@@ -104,7 +104,9 @@ In this page, If you want to purchase the product, you need fill some details re
 
 
 
-
+****deploy link***
 
 [project Deploy link of netify](https://gallant-jackson-573754.netlify.app/index.html)
+
+
 [Project Deploy Link](https://github.com/rahulsinha1996/Project-Bebodywise)
