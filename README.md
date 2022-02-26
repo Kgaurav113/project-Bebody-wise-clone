@@ -1,6 +1,14 @@
 # WEB-BebodywiseClone-Project
-This is a team project, built by us in the Construct Week in Unit-2 at Masai School.
-![logo.png](https://res.cloudinary.com/mosaic-wellness/image/upload/f_auto,w_800,c_limit/v1606295435/staging/Home/Images/bodywise-logo.png)
+This is a team project, built by us in the Construct Week in Unit-2 at Masai School
+
+
+some snapshot of our website
+![Capture](https://user-images.githubusercontent.com/99576535/155852317-211e4ae4-6231-44f8-ad3c-4b3dccc5b470.PNG)
+![3](https://user-images.githubusercontent.com/99576535/155852324-65441a1e-fd89-4ad5-8c5e-ce3b430f189f.PNG)
+
+![6](https://user-images.githubusercontent.com/99576535/155852345-c101d091-6cc0-4c68-8609-968cd6d75eaa.PNG)
+
+
 ---
 
 # Welcome 👋
@@ -71,6 +79,7 @@ Here you can find brief history of the products and website
 # Add to Cart
 In this Page, You can add the products to the Cart
 
+![8](https://user-images.githubusercontent.com/99576535/155852335-968e79db-6aa8-4fd3-9bbc-c4ab6a262091.PNG)
 
 
 
@@ -84,6 +93,7 @@ if you want buy any product you need sign up first and login with details then o
 
 # Products Page
 In this page, you can find all details of the product like price of the product and some basic information about products.
+![2](https://user-images.githubusercontent.com/99576535/155852329-77e3749c-81b1-4621-ba1b-ca0bc5ffdbe6.PNG)
 
 
 
